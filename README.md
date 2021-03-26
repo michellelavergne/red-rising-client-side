@@ -1,9 +1,9 @@
 # Red Rising Client Side App
 This is the companion application to the <a href="https://github.com/michellelavergne/red-rising-api">Red Rising API</a> that I'm currently building. This app takes a character's name and returns which color faction they belong to. This project is very much a work-in-progress.
 
-**Link to project:** http://recruiters-love-seeing-live-demos.com/
+**Link to project:** https://redrisingclientside.netlify.app/
 
-![space-gif](https://media.giphy.com/media/l0MYJAzu5RTVSGeiY/giphy.gif)
+![space-gif](https://media.giphy.com/media/TZf4ZyXb0lXXi/giphy.gif)
 
 ## How It's Made:
 
